@@ -78,7 +78,7 @@
 🧠 MACHINE LEARNING  
 📊 DATA ANALYSIS  
 🗣️ NLP  
-⚙️ ALGORITHMS  
+⚙️ ALGORITHMS / AI  
 </p>
 
 ---
